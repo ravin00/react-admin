@@ -74,7 +74,7 @@ const Sidebar = () => {
           {/* USER */}
           {isCollapsed && (
             <Box mb="25px">
-                <Box display="flex">
+                <Box display="flex" justifyContent="center" alignItems="center">
                     <img />
                 </Box>
                 <Box>
